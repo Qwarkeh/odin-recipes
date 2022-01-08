@@ -1,5 +1,3 @@
 # odin-recipes
 
-This is the first project for the Odin Project.
-
-With the use of basic HTML skills, a few basic recipes will be displayed.
+A basic HTML only website that showcases simple Instant Pot recipes.
